@@ -1,0 +1,11 @@
+C:\Users\Enzo\source\repos\LaundryModels\bin\Debug\net8.0\LaundryModels.deps.json
+C:\Users\Enzo\source\repos\LaundryModels\bin\Debug\net8.0\LaundryModels.dll
+C:\Users\Enzo\source\repos\LaundryModels\bin\Debug\net8.0\LaundryModels.pdb
+C:\Users\Enzo\source\repos\LaundryModels\obj\Debug\net8.0\LaundryModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\source\repos\LaundryModels\obj\Debug\net8.0\LaundryModels.AssemblyInfoInputs.cache
+C:\Users\Enzo\source\repos\LaundryModels\obj\Debug\net8.0\LaundryModels.AssemblyInfo.cs
+C:\Users\Enzo\source\repos\LaundryModels\obj\Debug\net8.0\LaundryModels.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\source\repos\LaundryModels\obj\Debug\net8.0\LaundryModels.dll
+C:\Users\Enzo\source\repos\LaundryModels\obj\Debug\net8.0\refint\LaundryModels.dll
+C:\Users\Enzo\source\repos\LaundryModels\obj\Debug\net8.0\LaundryModels.pdb
+C:\Users\Enzo\source\repos\LaundryModels\obj\Debug\net8.0\ref\LaundryModels.dll
