@@ -1,0 +1,15 @@
+C:\Users\Enzo\source\repos\LaundryData\obj\Debug\net8.0\LaundryData.csproj.AssemblyReference.cache
+C:\Users\Enzo\source\repos\LaundryData\obj\Debug\net8.0\LaundryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\source\repos\LaundryData\obj\Debug\net8.0\LaundryData.AssemblyInfoInputs.cache
+C:\Users\Enzo\source\repos\LaundryData\obj\Debug\net8.0\LaundryData.AssemblyInfo.cs
+C:\Users\Enzo\source\repos\LaundryData\obj\Debug\net8.0\LaundryData.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\source\repos\LaundryData\bin\Debug\net8.0\LaundryData.deps.json
+C:\Users\Enzo\source\repos\LaundryData\bin\Debug\net8.0\LaundryData.dll
+C:\Users\Enzo\source\repos\LaundryData\bin\Debug\net8.0\LaundryData.pdb
+C:\Users\Enzo\source\repos\LaundryData\bin\Debug\net8.0\LaundryModel.dll
+C:\Users\Enzo\source\repos\LaundryData\bin\Debug\net8.0\LaundryModel.pdb
+C:\Users\Enzo\source\repos\LaundryData\obj\Debug\net8.0\LaundryD.034C0391.Up2Date
+C:\Users\Enzo\source\repos\LaundryData\obj\Debug\net8.0\LaundryData.dll
+C:\Users\Enzo\source\repos\LaundryData\obj\Debug\net8.0\refint\LaundryData.dll
+C:\Users\Enzo\source\repos\LaundryData\obj\Debug\net8.0\LaundryData.pdb
+C:\Users\Enzo\source\repos\LaundryData\obj\Debug\net8.0\ref\LaundryData.dll
